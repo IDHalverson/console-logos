@@ -1,0 +1,27 @@
+{
+  "name": "console-logos",
+  "version": "1.0.2",
+  "description": "The configurable, module-based logger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDHalverson/console-logos.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logos",
+    "console-logos",
+    "logging",
+    "idhalverson"
+  ],
+  "author": "IDHalverson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDHalverson/console-logos/issues"
+  },
+  "homepage": "https://github.com/IDHalverson/console-logos#readme"
+}
